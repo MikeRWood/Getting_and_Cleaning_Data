@@ -1,4 +1,4 @@
-#** Getting_and_Cleaning_Data **
+# Getting_and_Cleaning_Data
 Class Project for **Getting &amp; Cleaning Data** class - *Coursera getdata-012*
 * 1. Move source file (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) into folder on local drive and unzip into "./UCI HAR Dataset"
 * 2. Save run_analysis.R into "./UCI HAR Dataset"
