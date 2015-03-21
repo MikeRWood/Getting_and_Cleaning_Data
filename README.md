@@ -1,6 +1,7 @@
 # Getting_and_Cleaning_Data
 Class Project for **Getting &amp; Cleaning Data** class - *Coursera getdata-012*
-Use the **run_analysis()** script to transform the Smartphone data into a tidy format. 
+
+Use the **run_analysis()** script to transform the Smartphone data into a tidy data format. 
 - The data should be located in the **UCI HAR Dataset** folder in the working directory. 
 - The script produces two text files, "data.txt" and "averages.txt.". The "data.txt" file contains the whole data set (with columns containing "mean()" or "std()" in their name only.
   - The script first loads the data using the load_data() function. to load the data, filter the columns, and combine the test and train data into one data frame. It utilizes the load_type_data() function, which reads the subjects_xxx.txt file, the activity data in the y_xxx.txt file, and the recorded data in the X_xxx. file.
